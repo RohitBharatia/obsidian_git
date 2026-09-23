@@ -1,4 +1,4 @@
-# obsidian-git
+# Obsidian-Git
 
 Sync your Obsidian vault markdown files to GitHub automatically.
 
